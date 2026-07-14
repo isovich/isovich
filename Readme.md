@@ -1,9 +1,9 @@
 <h1 align="center"> </🌼isovich>  
- <img href="https://discord.com/users/149234167333388288" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&pause=1000&color=376074&background=69FF2000&center=true&vCenter=true&width=435&lines=Selam+ben+isovich" alt="İsovich Was Here" />
+ <img href="https://discord.com/users/1164961776899735612" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&pause=1000&color=376074&background=69FF2000&center=true&vCenter=true&width=435&lines=Selam+ben+isovich" alt="İsovich Was Here" />
 </h1>
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=CA05C3&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Social+Media's" alt="Typing SVG" /></h2>
 <p align="center">
- <a align="center" href="https://discord.com/users/149234167333388288" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+ <a align="center" href="https://discord.com/users/1164961776899735612" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a align="center" href="https://www.github.com/isovich" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a align="center" href="https://open.spotify.com/user/3147fdi6lpzsfkowj5uklg7yr76i?si=26736c6f81d34c45&nd=1" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a align="center" href="https://www.instagram.com/isovich" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -45,7 +45,7 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
 
 <h2 align="center">
- <a href="https://discord.com/users/149234167333388288"><img  width="400px" src="https://lanyard.kyrie25.me/api/149234167333388288?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=1916"></a>
+ <a href="https://discord.com/users/1164961776899735612"><img  width="400px" src="https://lanyard.kyrie25.me/api/1164961776899735612?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=1916"></a>
 
 <a href="https://discord.com/users/657602079594119192"><img  width="400px" src="https://lanyard.kyrie25.me/api/657602079594119192?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=0y"></a>
 <br> </br>
